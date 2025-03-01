@@ -23,3 +23,8 @@ pip install --upgrade pip
 
 
 pip install pandas numpy
+
+### Run The Project
+
+```bash
+python main.py
